@@ -1,1 +1,3 @@
-ample2
+Sample2
+
+I added new information
